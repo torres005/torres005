@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ashish kumar 
 - 👀 I’m interested in working on new projects and technology.
-- 🧭 Right now I am learning React.js and Jquesy.
+- 🧭 Right now I am learning React.js and Jquery.
 
 
 <!---
